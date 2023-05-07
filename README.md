@@ -17,7 +17,7 @@ The following steps will guide you on how to run the application on macOS/Linux.
 1. Clone the repository
 
 ```
-git clone https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval docQA
+git clone https://github.com/braincomputingsantosh/langchain-doc-retrieval docQA
 ```
 
 2. Change into the directory
