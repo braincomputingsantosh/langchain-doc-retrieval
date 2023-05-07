@@ -129,5 +129,3 @@ Retrieve JSON for bubble:
 }
 `
 <br>
-
-Feel free to reach out if any questions on [Twitter](https://twitter.com/MisbahSy)
